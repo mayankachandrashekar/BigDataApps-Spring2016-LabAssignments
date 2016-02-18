@@ -3,12 +3,12 @@
 The repository consists of all the Lab Assigments done by
 
 
-Contributor : <First Name> <Last Name>
+<b>Contributor : </b> First Name Last Name
 
 as part of the 
 
-Course : Big Data Analytics and Apps 
-Semester : Spring 2016
-Instructor : Dr.Yugyung Lee
-Teaching Assistants: Mayanka Chandra Shekar, Feichen Shen
+<b>Course : </b> Big Data Analytics and Apps 
+<b>Semester : </b>Spring 2016
+<b>Instructor : </b> Dr.Yugyung Lee
+<b> Teaching Assistants: </b> Mayanka Chandra Shekar, Feichen Shen
 
